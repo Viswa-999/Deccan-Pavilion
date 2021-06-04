@@ -1,0 +1,61 @@
+*
+{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.form-box
+{
+	display: flex-left;
+    width:380px;
+	height:500px;
+	position:relative;
+	margin:2% auto;
+	background:#87CEFA;
+	padding:10px;
+}
+.h2
+{
+	color: #B22222;
+	font-style: italic;
+	font-family: serif;
+}
+.input-block
+{
+	margin-top: 75px !important; 
+}
+.input-field
+{
+	width: 100%;
+	padding:10px 0;
+	margin:5px 0;
+	border-left:0;
+	border-top:0;
+	border-right:0;
+	border-bottom: 1px solid #999;
+	outline:none;
+	background: transparent;
+}
+.login-btn
+{
+	width: 85%;
+	padding: 10px 30px;
+	cursor: pointer;
+	display: block;
+	margin: auto;
+	background: #F3C693;
+	border: 0;
+	outline: none;
+	border-radius: 30px;
+}
+.check-box
+{
+	margin: 30px 10px 34px 0;
+}
+span
+{
+	color:#B22222;
+	font-size:16px;
+	bottom:138px;
+	position:absolute;
+}
